@@ -1,0 +1,29 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! Maintained by ianweller@buttslol.net for their personal use
+! Available under the CC0 Public Domain Dedication
+! https://creativecommons.org/publicdomain/zero/1.0/
+! To the extent possible under law, the person who associated CC0 with this
+! work has waived all copyright and related or neighboring rights to this work
+
+!!! twitter.com
+! remove moments button
+twitter.com###global-actions > .js-moments-tab.moments
+! who to follow
+twitter.com##.wtf-module
+twitter.com##.WhoToFollow
+! trends
+twitter.com##.module.Trends
+! "footer"
+twitter.com##.module.Footer
+
+!!! tumblr.com
+! remove entire right column (who to follow, tumblr radar, "footer")
+www.tumblr.com###right_column
+
+!!! postmates.com
+! application banner on main page
+postmates.com###apply-action
+
+!!! youtube.com
+! destroy all comments
+www.youtube.com###watch-discussion
