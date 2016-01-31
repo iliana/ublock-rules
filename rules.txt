@@ -7,7 +7,7 @@
 
 !!! amazon.com
 ! remove advert above search/navigation bar
-amazon.com###nav-upnav
+www.amazon.com###nav-upnav
 smile.amazon.com###nav-upnav
 
 !!! twitter.com
