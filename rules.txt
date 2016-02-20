@@ -32,3 +32,5 @@ postmates.com###apply-action
 !!! youtube.com
 ! destroy all comments
 www.youtube.com###watch-discussion
+! destroy all video annotations
+www.youtube.com###movie_player .video-annotations
