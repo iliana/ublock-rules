@@ -20,6 +20,8 @@ twitter.com##.WhoToFollow
 twitter.com##.module.Trends
 ! "footer"
 twitter.com##.module.Footer
+! seriously???
+twitter.com##.LiveVideoHomePageModule
 
 !!! tumblr.com
 ! remove entire right column (who to follow, tumblr radar, "footer")
@@ -28,6 +30,8 @@ www.tumblr.com###right_column
 !!! twitch.tv
 ! I already give you people money
 www.twitch.tv##.upsell-banner
+! please stop
+www.twitch.tv##.ember-view.js-offers
 
 !!! postmates.com
 ! application banner on main page
