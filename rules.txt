@@ -5,6 +5,9 @@
 ! To the extent possible under law, the person who associated CC0 with this
 ! work has waived all copyright and related or neighboring rights to this work
 
+!!! embed blocks
+||disqus.com/embed$subdocument
+
 !!! amazon.com
 ! remove advert above search/navigation bar
 www.amazon.com###nav-upnav
