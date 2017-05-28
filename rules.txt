@@ -12,6 +12,8 @@
 ! remove advert above search/navigation bar
 www.amazon.com###nav-upnav
 smile.amazon.com###nav-upnav
+! "how happy are you that you used amazon smile?" please go away
+smile.amazon.com###pldn-smile-emo-04
 
 !!! twitter.com
 ! remove moments button
@@ -21,6 +23,8 @@ twitter.com##.wtf-module
 twitter.com##.WhoToFollow
 ! trends
 twitter.com##.module.Trends
+! own profile stats module
+twitter.com##.TweetImpressionsModule
 ! "footer"
 twitter.com##.module.Footer
 ! seriously???
@@ -35,6 +39,9 @@ www.tumblr.com###right_column
 www.twitch.tv##.upsell-banner
 ! please stop
 www.twitch.tv##.ember-view.js-offers
+www.twitch.tv##.prime-crown__new-offer-count
+www.twitch.tv###js-follow-panel
+www.twitch.tv##.sticky-message--pinned-cheers
 
 !!! postmates.com
 ! application banner on main page
@@ -45,3 +52,5 @@ postmates.com###apply-action
 www.youtube.com###watch-discussion
 ! destroy all video annotations
 www.youtube.com###movie_player .video-annotations
+! destroy all related videos
+www.youtube.com##.related-list-item-compact-video.related-list-item
