@@ -21,6 +21,8 @@ twitter.com###global-actions > .js-moments-tab.moments
 ! who to follow
 twitter.com##.wtf-module
 twitter.com##.WhoToFollow
+! remove tweets others liked from timeline
+twitter.com##.stream .tweet[data-component-context="suggest_activity_tweet"]
 ! trends
 twitter.com##.module.Trends
 ! own profile stats module
