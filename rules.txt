@@ -54,3 +54,7 @@ www.youtube.com###watch-discussion
 www.youtube.com###movie_player .video-annotations
 ! destroy all related videos
 www.youtube.com##.related-list-item-compact-video.related-list-item
+
+!!! facebook.com
+! remove login / sign up full-page popup
+www.facebook.com###pagelet_growth_expanding_cta
