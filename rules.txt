@@ -60,3 +60,13 @@ www.youtube.com##.related-list-item-compact-video.related-list-item
 !!! facebook.com
 ! remove login / sign up full-page popup
 www.facebook.com###pagelet_growth_expanding_cta
+
+!!! stack exchange
+! remove hot network questions
+stackexchange.com###hot-network-questions
+askubuntu.com###hot-network-questions
+mathoverflow.net###hot-network-questions
+serverfault.com###hot-network-questions
+stackoverflow.com###hot-network-questions
+stackapps.com###hot-network-questions
+superuser.com###hot-network-questions
