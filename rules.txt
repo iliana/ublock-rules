@@ -5,61 +5,16 @@
 ! To the extent possible under law, the person who associated CC0 with this
 ! work has waived all copyright and related or neighboring rights to this work
 
-!!! embed blocks
 ||disqus.com/embed$subdocument
+cybre.space##.status__content__read-more-button
 
-!!! amazon.com
-! remove advert above search/navigation bar
-www.amazon.com###nav-upnav
-smile.amazon.com###nav-upnav
-! "how happy are you that you used amazon smile?" please go away
-smile.amazon.com###pldn-smile-emo-04
+! https://bendodson.com/projects/itunes-artwork-finder/
+||bendodson.com/images/ben-dodson.png$image
 
-!!! twitter.com
-! remove moments button
-twitter.com###global-actions > .js-moments-tab.moments
-! who to follow
-twitter.com##.wtf-module
-twitter.com##.WhoToFollow
-! remove tweets others liked from timeline
-twitter.com##.stream .tweet[data-component-context="suggest_activity_tweet"]
-! trends
-twitter.com##.module.Trends
-! own profile stats module
-twitter.com##.TweetImpressionsModule
-! "footer"
-twitter.com##.module.Footer
-! seriously???
-twitter.com##.LiveVideoHomePageModule
-
-!!! tumblr.com
-! remove entire right column (who to follow, tumblr radar, "footer")
-www.tumblr.com###right_column
-
-!!! twitch.tv
-! I already give you people money
-www.twitch.tv##.upsell-banner
-! please stop
-www.twitch.tv##.ember-view.js-offers
-www.twitch.tv##.prime-crown__new-offer-count
-www.twitch.tv###js-follow-panel
-www.twitch.tv##.sticky-message--pinned-cheers
-
-!!! postmates.com
-! application banner on main page
-postmates.com###apply-action
-
-!!! youtube.com
-! destroy all comments
-www.youtube.com###watch-discussion
-! destroy all video annotations
-www.youtube.com###movie_player .video-annotations
-! destroy all related videos
-www.youtube.com##.related-list-item-compact-video.related-list-item
-
-!!! facebook.com
-! remove login / sign up full-page popup
-www.facebook.com###pagelet_growth_expanding_cta
+!!! twitter.com PWA ("new twitter")
+||https://api.twitter.com/1.1/users/recommendations.json
+||https://api.twitter.com/2/guide.json
+twitter.com##article:has(path[d="M20.75 2H3.25A2.25 2.25 0 0 0 1 4.25v15.5A2.25 2.25 0 0 0 3.25 22h17.5A2.25 2.25 0 0 0 23 19.75V4.25A2.25 2.25 0 0 0 20.75 2zM17.5 13.504a.875.875 0 1 1-1.75-.001V9.967l-7.547 7.546a.875.875 0 0 1-1.238-1.238l7.547-7.547h-3.54a.876.876 0 0 1 .001-1.751h5.65c.483 0 .875.39.875.874v5.65z"])
 
 !!! stack exchange
 ! remove hot network questions
