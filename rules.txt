@@ -17,7 +17,9 @@ www.youtube.com###comments
 
 !!! twitter.com PWA ("new twitter")
 ||api.twitter.com/1.1/users/recommendations.json
+||twitter.com/i/api/1.1/users/recommendations.json
 ||api.twitter.com/2/guide.json
+||twitter.com/i/api/2/guide.json
 twitter.com##article:has(path[d="M20.75 2H3.25A2.25 2.25 0 0 0 1 4.25v15.5A2.25 2.25 0 0 0 3.25 22h17.5A2.25 2.25 0 0 0 23 19.75V4.25A2.25 2.25 0 0 0 20.75 2zM17.5 13.504a.875.875 0 1 1-1.75-.001V9.967l-7.547 7.546a.875.875 0 0 1-1.238-1.238l7.547-7.547h-3.54a.876.876 0 0 1 .001-1.751h5.65c.483 0 .875.39.875.874v5.65z"])
 
 !!! twitch.tv
