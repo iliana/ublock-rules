@@ -11,6 +11,9 @@ cybre.space##.status__content__read-more-button
 ! https://bendodson.com/projects/itunes-artwork-finder/
 ||bendodson.com/images/ben-dodson.png$image
 
+! disable sign in with google iframes
+||accounts.google.com/gsi/$3p
+
 ! galaxy brain: web frontend is so complicated that we can't have stable identifiers for end users to modify
 ! universe brain: put your comments in a div called "comments"
 www.youtube.com###comments
