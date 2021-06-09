@@ -30,7 +30,7 @@ twitter.com##article:has(path[d="M20.75 2H3.25A2.25 2.25 0 0 0 1 4.25v15.5A2.25 
 !!! twitch.tv
 www.twitch.tv##.extension-container
 www.twitch.tv##.extension-taskbar
-www.twitch.tv##.tw-relative.prime-offers
+www.twitch.tv##.prime-offers
 
 !!! stack exchange
 ! remove hot network questions
