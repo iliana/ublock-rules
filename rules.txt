@@ -41,3 +41,11 @@ serverfault.com###hot-network-questions
 stackoverflow.com###hot-network-questions
 stackapps.com###hot-network-questions
 superuser.com###hot-network-questions
+! remove cookie banner. i will never log in
+stackexchange.com##.js-consent-banner
+askubuntu.com##.js-consent-banner
+mathoverflow.net##.js-consent-banner
+serverfault.com##.js-consent-banner
+stackoverflow.com##.js-consent-banner
+stackapps.com##.js-consent-banner
+superuser.com##.js-consent-banner
