@@ -17,6 +17,7 @@ cybre.space##.status__content__read-more-button
 ! galaxy brain: web frontend is so complicated that we can't have stable identifiers for end users to modify
 ! universe brain: put your comments in a div called "comments"
 www.youtube.com###comments
+www.youtube.com##ytd-mealbar-promo-renderer
 
 !!! twitter.com PWA ("new twitter")
 ||api.twitter.com/1.1/users/recommendations.json
