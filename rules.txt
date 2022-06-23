@@ -53,8 +53,12 @@ stackapps.com##.js-consent-banner
 superuser.com##.js-consent-banner
 
 !!! discord
-! remove "give a gift" button in chat bar
-! 2022-06-24 https://ptb.discord.com
 discord.com##button[aria-label="Send a gift"]
+discord.com##button[aria-label="Open GIF picker"]
+discord.com##button[aria-label="Open sticker picker"]
 ptb.discord.com##button[aria-label="Send a gift"]
+ptb.discord.com##button[aria-label="Open GIF picker"]
+ptb.discord.com##button[aria-label="Open sticker picker"]
 canary.discord.com##button[aria-label="Send a gift"]
+canary.discord.com##button[aria-label="Open GIF picker"]
+canary.discord.com##button[aria-label="Open sticker picker"]
