@@ -62,3 +62,6 @@ ptb.discord.com##button[aria-label="Open sticker picker"]
 canary.discord.com##button[aria-label="Send a gift"]
 canary.discord.com##button[aria-label="Open GIF picker"]
 canary.discord.com##button[aria-label="Open sticker picker"]
+
+!!! (https://bendodson.com/projects/itunes-artwork-finder/) please stop staring into my soul
+||bendodson.s3.amazonaws.com/ben-dodson.png$image
