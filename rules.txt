@@ -54,6 +54,7 @@ canary.discord.com##button[aria-label="Open sticker picker"]
 ||bendodson.s3.amazonaws.com/ben-dodson.png$image
 
 !!! remove new york times home page sections that make my brain hurt (more than the normal amount)
+www.nytimes.com##[data-hierarchy=zone] > div:has(.package-title-wrapper span:has-text(/^Food and Nutrition$/))
 www.nytimes.com##[data-hierarchy=zone] > div:has(.package-title-wrapper span:has-text(/^From The Athletic$/))
 www.nytimes.com##[data-hierarchy=zone] > div:has(.package-title-wrapper span:has-text(/^In Case You Missed It$/))
 www.nytimes.com##[data-hierarchy=zone] > div:has(.package-title-wrapper span:has-text(/^New York Times Cooking$/))
