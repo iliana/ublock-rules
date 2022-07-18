@@ -5,8 +5,10 @@
 ! To the extent possible under law, the person who associated CC0 with this
 ! work has waived all copyright and related or neighboring rights to this work
 
+github.com##body.page-profile div:has(> h2:has-text(/^Achievements$/))
+www.twitch.tv##.prime-offers
+www.youtube.com##ytd-yoodle-renderer
 ||disqus.com/embed$subdocument
-cybre.space##.status__content__read-more-button
 
 ! disable sign in with google iframes
 ||accounts.google.com/gsi/$3p
