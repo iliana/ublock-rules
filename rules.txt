@@ -5,7 +5,10 @@
 ! To the extent possible under law, the person who associated CC0 with this
 ! work has waived all copyright and related or neighboring rights to this work
 
+github.com##aside[aria-label="Explore"]
 github.com##body.page-profile div:has(> h2:has-text(/^Achievements$/))
+www.twitch.tv##.community-points-summary
+www.twitch.tv##.hype-train-progress-bar__container
 www.twitch.tv##.prime-offers
 www.youtube.com##ytd-yoodle-renderer
 ||disqus.com/embed$subdocument
