@@ -7,7 +7,9 @@
 
 github.com##aside[aria-label="Explore"]
 github.com##body.page-profile div:has(> h2:has-text(/^Achievements$/))
+www.twitch.tv##.community-highlight [class~=hype-train]
 www.twitch.tv##.community-points-summary
+www.twitch.tv##.hype-train-level-up__container
 www.twitch.tv##.hype-train-progress-bar__container
 www.twitch.tv##.prime-offers
 www.youtube.com##ytd-yoodle-renderer
@@ -62,3 +64,4 @@ canary.discord.com##button[aria-label="Open sticker picker"]
 www.nytimes.com##[data-hierarchy=zone] > div:has(.package-title-wrapper span:has-text(/^(Ask Well|Better Rest|Fitness|Food and Nutrition|From The Athletic|Mind|In Case You Missed It|New York Times Cooking|Opinion|Play|Recommendations From Wirecutter|Well|Women’s Health)$/))
 www.nytimes.com##h3:has-text(/^opinion$/) + div:has([data-well-section=well-section])
 www.nytimes.com##h3:has-text(/^opinion$/):has(+ div:has([data-well-section=well-section]))
+www.nytimes.com##section.story-wrapper:has(a[href*="/opinion/"])
