@@ -7,6 +7,7 @@
 
 github.com##aside div[aria-label="Explore repositories"]
 github.com##body.page-profile div:has(> h2:has-text(/^Achievements$/))
+github.com##button:has-text("GitHub Copilot")
 github.com##notification-indicator
 github.com##.dashboard-changelog
 www.twitch.tv##.community-highlight [class~=hype-train]
