@@ -10,7 +10,7 @@ github.com##body.page-profile div:has(> h2:has-text(/^Achievements$/))
 github.com##button:has-text("GitHub Copilot")
 github.com##notification-indicator
 github.com##.dashboard-changelog
-tacobelllabs.net##.status-card
+tacobelllabs.net##.status-card:not(:upward(.detailed-status))
 www.twitch.tv##.community-highlight [class~=hype-train]
 www.twitch.tv##.community-points-summary
 www.twitch.tv##.hype-train-level-up__container
