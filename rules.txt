@@ -22,6 +22,9 @@ www.youtube.com##ytd-yoodle-renderer
 ! disable sign in with google iframes
 ||accounts.google.com/gsi/$3p
 
+! remove the "Present" button right next to the "Join now" button when joining meet calls
+meet.google.com##div:has(> button:has-text(Join now)) + div:has(> button:has-text(Present))
+
 !!! stack exchange
 ! remove hot network questions
 stackexchange.com###hot-network-questions
